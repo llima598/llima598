@@ -1,27 +1,51 @@
-Olá! Eu sou Lucas 👋
+# Olá! Eu sou Lucas Lima 👋
 
-Front-end Developer em formação
+### Desenvolvedor Front-end Júnior | React | JavaScript | HTML | CSS
 
-Estou estudando desenvolvimento web e construindo projetos para colocar meus conhecimentos em prática.
+Estou em busca da minha primeira oportunidade profissional como **Desenvolvedor Front-end Júnior**. Tenho estudado desenvolvimento web e criado projetos práticos para desenvolver minhas habilidades em interfaces responsivas, JavaScript, React, consumo de APIs e boas práticas.
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-* HTML5
-* CSS3
-* JavaScript
-* Git & GitHub
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+- Git & GitHub
+- APIs REST
+- LocalStorage
+- Responsividade
 
-📚 Atualmente estudando
+## 🚀 Projetos em destaque
 
-* JavaScript
-* APIs
-* Responsividade
-* Boas práticas de desenvolvimento web
+### 💰 Fluxo — Controle Financeiro
+Aplicação web desenvolvida com React para controle de entradas, despesas e compras parceladas, com filtros, busca, navegação por mês e persistência de dados com LocalStorage.
 
-🚀 Projetos
+➡️ [Ver repositório](https://github.com/llima598/fluxo-controle-financeiro)
 
-Confira meus projetos e minha evolução como desenvolvedor nos repositórios abaixo.
+### ⭐ Star Wars Characters
+Catálogo interativo desenvolvido com JavaScript, consumindo uma API pública, com paginação, modal de detalhes e layout responsivo.
 
-📫 Contato
+➡️ [Ver repositório](https://github.com/llima598/Star-Wars-Characters)
 
-* GitHub: [llima598](https://github.com/llima598)
+### 🦇 Projeto Batman
+Projeto desenvolvido para praticar HTML, CSS e JavaScript, com foco em construção de interfaces e responsividade.
+
+➡️ [Ver repositório](https://github.com/llima598/projeto-batman)
+
+## 📚 Atualmente aprimorando
+
+- Componentização e arquitetura em React
+- Hooks e gerenciamento de estado
+- Consumo e tratamento de APIs
+- Boas práticas de JavaScript
+- Testes automatizados
+
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-lima-231248191/)
+- [GitHub](https://github.com/llima598)
+
+---
+
+**Objetivo:** transformar conhecimento em projetos reais e conquistar minha primeira oportunidade profissional como Desenvolvedor Front-end Júnior.
