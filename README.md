@@ -2,36 +2,42 @@
 
 ### Desenvolvedor Front-end Júnior | React | JavaScript | HTML | CSS
 
-Estou em busca da minha primeira oportunidade profissional como **Desenvolvedor Front-end Júnior**. Tenho estudado desenvolvimento web e criado projetos práticos para desenvolver minhas habilidades em interfaces responsivas, JavaScript, React, consumo de APIs e boas práticas.
+Desenvolvedor Front-end Júnior em busca da primeira oportunidade profissional. Desenvolvo aplicações e interfaces responsivas com **React e JavaScript**, com foco em componentização, consumo de APIs, manipulação de estado, boas práticas e experiência do usuário.
 
 ## 🛠️ Tecnologias
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Vite
-- Git & GitHub
-- APIs REST
-- LocalStorage
-- Responsividade
+- **React**
+- **JavaScript (ES6+)**
+- **HTML5**
+- **CSS3**
+- **Vite**
+- **Git & GitHub**
+- **APIs REST**
+- **LocalStorage**
+- **Responsividade**
 
 ## 🚀 Projetos em destaque
 
 ### 💰 Fluxo — Controle Financeiro
-Aplicação web desenvolvida com React para controle de entradas, despesas e compras parceladas, com filtros, busca, navegação por mês e persistência de dados com LocalStorage.
+Aplicação de controle financeiro desenvolvida com React, com cadastro e edição de transações, filtros, busca, navegação por mês, compras parceladas e persistência de dados com LocalStorage.
 
-➡️ [Ver repositório](https://github.com/llima598/fluxo-controle-financeiro)
+**React · Vite · JavaScript · LocalStorage**
+
+🔗 **[Demo](https://fluxo-controle-financeiro-iota.vercel.app)** · 💻 **[Código](https://github.com/llima598/fluxo-controle-financeiro)**
 
 ### ⭐ Star Wars Characters
-Catálogo interativo desenvolvido com JavaScript, consumindo uma API pública, com paginação, modal de detalhes e layout responsivo.
+Catálogo interativo desenvolvido com JavaScript, consumindo uma API pública. Possui paginação, modal de detalhes, estados de carregamento e erro e layout responsivo.
 
-➡️ [Ver repositório](https://github.com/llima598/Star-Wars-Characters)
+**JavaScript · API REST · Fetch · DOM · CSS**
+
+🔗 **[Demo](https://star-wars-characters-flax.vercel.app)** · 💻 **[Código](https://github.com/llima598/Star-Wars-Characters)**
 
 ### 🦇 Projeto Batman
-Projeto desenvolvido para praticar HTML, CSS e JavaScript, com foco em construção de interfaces e responsividade.
+Landing page inspirada em The Batman, desenvolvida para praticar estrutura semântica, CSS, responsividade, acessibilidade e integração de conteúdo multimídia.
 
-➡️ [Ver repositório](https://github.com/llima598/projeto-batman)
+**HTML5 · CSS3 · JavaScript · Responsividade**
+
+🔗 **[Demo](https://projeto-batman-eight.vercel.app)** · 💻 **[Código](https://github.com/llima598/projeto-batman)**
 
 ## 📚 Atualmente aprimorando
 
@@ -41,11 +47,15 @@ Projeto desenvolvido para praticar HTML, CSS e JavaScript, com foco em construç
 - Boas práticas de JavaScript
 - Testes automatizados
 
+## 🎯 Objetivo profissional
+
+Conquistar minha primeira oportunidade como **Desenvolvedor Front-end Júnior**, contribuindo com projetos reais e evoluindo continuamente minhas habilidades em desenvolvimento web.
+
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/lucas-lima-231248191/)
-- [GitHub](https://github.com/llima598)
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-lima-231248191/)
+- 💻 [GitHub](https://github.com/llima598)
 
 ---
 
-**Objetivo:** transformar conhecimento em projetos reais e conquistar minha primeira oportunidade profissional como Desenvolvedor Front-end Júnior.
+Obrigado por visitar meu perfil! 🚀
