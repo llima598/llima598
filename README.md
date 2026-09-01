@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front-end Júnior | React | JavaScript | HTML | CSS
 
-Desenvolvedor Front-end Júnior em busca da primeira oportunidade profissional. Desenvolvo aplicações e interfaces responsivas com **React e JavaScript**, com foco em componentização, consumo de APIs, manipulação de estado, boas práticas e experiência do usuário.
+Desenvolvedor Front-end Júnior com foco em **React e JavaScript**, desenvolvendo aplicações web responsivas com componentização, consumo de APIs, gerenciamento de estado, boas práticas e foco na experiência do usuário.
 
 ## 🛠️ Tecnologias
 
@@ -46,10 +46,6 @@ Landing page inspirada em The Batman, desenvolvida para praticar estrutura semâ
 - Consumo e tratamento de APIs
 - Boas práticas de JavaScript
 - Testes automatizados
-
-## 🎯 Objetivo profissional
-
-Conquistar minha primeira oportunidade como **Desenvolvedor Front-end Júnior**, contribuindo com projetos reais e evoluindo continuamente minhas habilidades em desenvolvimento web.
 
 ## 📫 Contato
 
