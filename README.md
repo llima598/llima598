@@ -31,7 +31,7 @@ Marketplace de NFTs com experiência de navegação, autenticação, carrinho e 
 - Tratamento de alterações de preço e idempotência de pedidos.
 
 **Qualidade e testes:**
-- 13 testes end-to-end com Playwright, todos passando.
+- 13 testes end-to-end com Playwright (13/13 aprovados na última execução registrada).
 - Interface responsiva, verificada em resoluções de 375px a 1440px.
 - Auditorias Lighthouse realizadas em desktop e mobile.
 
@@ -123,4 +123,3 @@ Banco de Dados · SQL · MySQL
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-lima-231248191/)
 - [GitHub](https://github.com/llima598)
-
