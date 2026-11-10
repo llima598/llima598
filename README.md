@@ -1,65 +1,126 @@
-Olá, eu sou o Lucas 👋
+# Olá, eu sou o Lucas! 👋
 
-Desenvolvedor Front-End Júnior | React · TypeScript · JavaScript
+**Desenvolvedor Front-End Júnior | React · TypeScript · JavaScript**
 
 Engenheiro eletricista de formação, com 2 anos de experiência em diagnóstico de falhas, monitoramento e suporte à infraestrutura de telecomunicações (Ezentis/Ability, em contrato com a Claro).
 
-Nesse período, desenvolvi uma abordagem analítica para investigar problemas, identificar suas causas e aplicar soluções. Hoje, levo essa mesma mentalidade para o desenvolvimento de software.
+Essa experiência desenvolveu minha capacidade analítica, resolução de problemas e atenção aos detalhes, habilidades que hoje aplico na construção de aplicações web.
 
-📍 São Paulo, SP
-🎯 Em busca da minha primeira oportunidade profissional em desenvolvimento Front-End, com disponibilidade imediata.
+📍 **Localização:** São Paulo, SP  
+🎯 **Objetivo:** primeira oportunidade profissional como Desenvolvedor Front-End Júnior.  
+💼 **Disponibilidade:** imediata.
 
-🚀 Projetos
+---
 
-🌿 GreenMint Marketplace · Código-fonte
+## 🚀 Projetos em destaque
 
-Marketplace de NFTs desenvolvido como desafio técnico de Front-End. Possui API simulada e fluxos de autenticação, pagamentos e eventos em tempo real simulados.
+### 🌿 GreenMint Marketplace | React + TypeScript
 
-* Busca, filtros sincronizados com a URL, paginação e ordenação.
-* Login, rotas protegidas, carrinho e checkout com pagamento simulado (aprovado, recusado ou pendente).
-* Atualizações simuladas de NFTs e pedidos com Socket.IO e reconexão automática.
-* API simulada com MSW, gerenciamento de dados assíncronos com TanStack Query e navegação com TanStack Router.
-* 8 testes end-to-end com Playwright.
-* Lighthouse com pontuações entre 96 e 99 em performance.
+Marketplace de NFTs com experiência de navegação, autenticação, carrinho e checkout, incluindo simulação de integrações com API e atualizações em tempo real.
 
-Stack: React, TypeScript, Vite, Tailwind CSS, shadcn/ui, TanStack Router, TanStack Query, MSW, Socket.IO e Playwright.
+🔗 [Acessar aplicação](https://greenmint-marketplace.vercel.app/) · [Código-fonte](https://github.com/llima598/greenmint-marketplace)
 
-💸 Fluxo — Controle Financeiro · Código-fonte
+**Principais funcionalidades:**
+- Catálogo de NFTs com busca, filtros, ordenação e paginação.
+- Sincronização dos filtros e da busca com a URL.
+- Autenticação, cadastro e rotas protegidas.
+- Carrinho com gerenciamento de itens e aplicação de cupons.
+- Checkout com simulação de pagamentos aprovados, recusados ou pendentes.
+- Histórico de pedidos.
+- Atualizações em tempo real simuladas com Socket.IO.
+- Tratamento de alterações de preço e idempotência de pedidos.
 
-Aplicação de controle financeiro desenvolvida do zero, com foco na organização de transações e gerenciamento de finanças pessoais.
+**Qualidade e testes:**
+- 13 testes end-to-end com Playwright, todos passando.
+- Interface responsiva, verificada em resoluções de 375px a 1440px.
+- Auditorias Lighthouse realizadas em desktop e mobile.
 
-* Cadastro e gerenciamento de receitas e despesas.
-* Controle de saldo e compras parceladas, com lógica de parcelas implementada no código.
-* Persistência de dados com localStorage.
-* 11 componentes React e 1 hook customizado.
-* 11 testes unitários com Vitest.
+**Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, TanStack Router, TanStack Query, Axios, MSW, Socket.IO e Playwright.
 
-Stack: React, TypeScript, Vite, Vitest e CSS3.
+### 💸 Fluxo — Controle Financeiro | React + TypeScript
 
-⭐ Star Wars Characters Explorer
+Aplicação de controle financeiro pessoal desenvolvida para organizar receitas, despesas e acompanhar movimentações financeiras.
 
-Aplicação que consome a API pública SWAPI para listar personagens de Star Wars.
+🔗 [Acessar aplicação](https://fluxo-controle-financeiro-iota.vercel.app/) · [Código-fonte](https://github.com/llima598/fluxo-controle-financeiro)
 
-* Consumo de API REST.
-* Paginação e modal com detalhes dos personagens.
+**Principais funcionalidades:**
+- Cadastro, edição e exclusão de receitas e despesas.
+- Dashboard com saldo, receitas e despesas.
+- Navegação entre meses.
+- Busca e filtros de transações.
+- Gerenciamento de compras parceladas.
+- Gráficos de movimentações diárias e gastos por categoria.
+- Persistência de dados com localStorage.
+- Cálculos financeiros realizados em centavos, utilizando valores inteiros para evitar imprecisões comuns em operações com ponto flutuante.
 
-Stack: JavaScript, APIs REST.
+**Qualidade e testes:**
+- Testes unitários com Vitest e Testing Library.
+- Componentes reutilizáveis e hook customizado para gerenciamento das transações.
 
-🦇 Projeto Batman
+**Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, Vitest, Testing Library e Oxlint.
+
+---
+
+## 💻 Outros projetos
+
+### ⭐ Star Wars Characters Explorer
+
+Aplicação desenvolvida para explorar personagens de Star Wars utilizando a API pública SWAPI.
+
+🔗 [Acessar aplicação](https://star-wars-characters-flax.vercel.app/) · [Código-fonte](https://github.com/llima598/star-wars-characters)
+
+**Principais funcionalidades:**
+- Consumo de API REST.
+- Paginação.
+- Exibição de detalhes dos personagens.
+
+**Stack:** HTML, CSS, JavaScript e API REST.
+
+### 🦇 Projeto Batman
 
 Landing page responsiva com navegação entre páginas, galeria e formulário de contato.
 
-Stack: HTML5, CSS3 e JavaScript.
+🔗 [Acessar aplicação](https://projeto-batman-eight.vercel.app/) · [Código-fonte](https://github.com/llima598/projeto-batman)
 
-🛠️ Tecnologias
+**Stack:** HTML5, CSS3 e JavaScript.
 
-React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · TanStack Router · TanStack Query · Socket.IO · Git · GitHub · APIs REST · Design responsivo · Vitest · Playwright · MSW
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+**Front-End:** React · JavaScript · TypeScript · HTML5 · CSS3 · Tailwind CSS
+
+**Ecossistema React:** Vite · TanStack Router · TanStack Query · Axios
+
+**Testes e qualidade:** Vitest · Testing Library · Playwright · Oxlint
+
+**Integração e ferramentas:** APIs REST · MSW · Socket.IO · Git · GitHub
+
+**Outros conhecimentos:** Design responsivo · localStorage
+
+---
+
+## 📊 Auditorias Lighthouse — GreenMint
+
+Resultados registrados durante as auditorias do projeto. Os índices podem variar conforme ambiente, dispositivo e condições de execução.
+
+| Página e dispositivo | Performance | Acessibilidade | Boas práticas | SEO |
+|---|---:|---:|---:|---:|
+| Home — Desktop | 99 | 96 | 100 | 100 |
+| Home — Mobile | 96 | 96 | 100 | 100 |
+| Detalhes NFT — Desktop | 100 | 100 | 100 | 100 |
+| Detalhes NFT — Mobile | 98 | 100 | 100 | 100 |
+
+---
 
 ## 📚 Próximos estudos
 
 Banco de Dados · SQL · MySQL
 
-📫 Contato
+---
 
-* LinkedIn
-* GitHub
+## 📫 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/lucas-lima-231248191/)
+- [GitHub](https://github.com/llima598)
+
