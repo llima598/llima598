@@ -18,17 +18,20 @@ Atualmente desenvolvo projetos com React e TypeScript, integrando interfaces a A
 
 ### 🌿 GreenMint Marketplace | React + TypeScript
 
-Marketplace de NFTs com experiência de navegação, autenticação, carrinho e checkout, incluindo simulação de integrações com API e atualizações em tempo real.
+Marketplace de NFTs com catálogo, autenticação, gerenciamento de conta, favoritos, carrinho e checkout. O projeto simula integrações com API, carteira digital e atualizações em tempo real.
 
 🔗 [Acessar aplicação](https://greenmint-marketplace.vercel.app/) · [Código-fonte](https://github.com/llima598/greenmint-marketplace)
 
 **Principais funcionalidades:**
-- Catálogo de NFTs com busca, filtros, ordenação e paginação.
+- Catálogo de NFTs com busca, filtros, ordenação e paginação no endpoint simulado.
 - Sincronização dos filtros e da busca com a URL.
-- Autenticação, cadastro e rotas protegidas.
+- Cadastro, login, gerenciamento de sessão e rotas protegidas.
+- Favoritos associados à conta autenticada.
+- Perfil com edição de nome e e-mail e alteração de senha mediante validação da senha atual.
+- Área **Minha coleção**, com NFTs de pedidos confirmados.
+- Vinculação e desvinculação de endereços públicos de carteiras Ethereum, Polygon e Solana.
 - Carrinho com gerenciamento de itens e aplicação de cupons.
-- Checkout com simulação de pagamentos aprovados, recusados ou pendentes.
-- Histórico de pedidos.
+- Checkout com simulação de pagamentos aprovados, recusados ou pendentes e histórico de pedidos.
 - Atualizações em tempo real simuladas com Socket.IO.
 - Tratamento de alterações de preço e idempotência de pedidos.
 
@@ -38,6 +41,8 @@ Marketplace de NFTs com experiência de navegação, autenticação, carrinho e 
 - Auditorias Lighthouse realizadas em desktop e mobile.
 
 **Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, TanStack Router, TanStack Query, Axios, MSW, Socket.IO e Playwright.
+
+**Observação técnica:** o backend, a persistência dos dados, a carteira e os eventos em tempo real são simulados para fins de demonstração. A aplicação não realiza transações financeiras nem conexão real com carteiras ou redes blockchain.
 
 ### 💸 Fluxo — Controle Financeiro | React + TypeScript + Supabase
 
