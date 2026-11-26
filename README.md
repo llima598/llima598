@@ -1,13 +1,15 @@
 # Olá, eu sou o Lucas! 👋
 
-**Desenvolvedor Front-End Júnior | React · TypeScript · JavaScript**
+**Desenvolvedor Front-End Júnior | React · TypeScript · JavaScript · Supabase · PostgreSQL**
 
 Engenheiro eletricista de formação, com 2 anos de experiência em diagnóstico de falhas, monitoramento e suporte à infraestrutura de telecomunicações (Ezentis/Ability, em contrato com a Claro).
 
-Essa experiência desenvolveu minha capacidade analítica, resolução de problemas e atenção aos detalhes, habilidades que hoje aplico na construção de aplicações web.
+Essa experiência fortaleceu minha capacidade analítica, resolução de problemas e atenção aos detalhes — habilidades que aplico no desenvolvimento de aplicações web.
+
+Atualmente desenvolvo projetos com React e TypeScript, integrando interfaces a APIs e bancos de dados relacionais. Também venho praticando autenticação, persistência de dados e controle de acesso com Supabase e PostgreSQL.
 
 📍 **Localização:** São Paulo, SP  
-🎯 **Objetivo:** primeira oportunidade profissional como Desenvolvedor Front-End Júnior.  
+🎯 **Objetivo:** oportunidade como Desenvolvedor Front-End Júnior.  
 💼 **Disponibilidade:** imediata.
 
 ---
@@ -31,33 +33,36 @@ Marketplace de NFTs com experiência de navegação, autenticação, carrinho e 
 - Tratamento de alterações de preço e idempotência de pedidos.
 
 **Qualidade e testes:**
-- 13 testes end-to-end com Playwright (13/13 aprovados na última execução registrada).
+- 25 testes end-to-end com Playwright, aprovados na última execução registrada.
 - Interface responsiva, verificada em resoluções de 375px a 1440px.
 - Auditorias Lighthouse realizadas em desktop e mobile.
 
 **Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, TanStack Router, TanStack Query, Axios, MSW, Socket.IO e Playwright.
 
-### 💸 Fluxo — Controle Financeiro | React + TypeScript
+### 💸 Fluxo — Controle Financeiro | React + TypeScript + Supabase
 
-Aplicação de controle financeiro pessoal desenvolvida para organizar receitas, despesas e acompanhar movimentações financeiras.
+Aplicação de controle financeiro pessoal para organizar receitas, despesas e compras parceladas, com autenticação de usuários e persistência de dados em banco PostgreSQL.
 
 🔗 [Acessar aplicação](https://fluxo-controle-financeiro-iota.vercel.app/) · [Código-fonte](https://github.com/llima598/fluxo-controle-financeiro)
 
 **Principais funcionalidades:**
+- Cadastro e login de usuários.
+- Gerenciamento de perfil: edição de nome, solicitação de alteração de e-mail e atualização de senha.
 - Cadastro, edição e exclusão de receitas e despesas.
 - Dashboard com saldo, receitas e despesas.
-- Navegação entre meses.
+- Navegação por mês e ano.
 - Busca e filtros de transações.
 - Gerenciamento de compras parceladas.
 - Gráficos de movimentações diárias e gastos por categoria.
-- Persistência de dados com localStorage.
-- Cálculos financeiros realizados em centavos, utilizando valores inteiros para evitar imprecisões comuns em operações com ponto flutuante.
+- Persistência de dados com Supabase e PostgreSQL.
+- Políticas de Row Level Security (RLS) para restringir o acesso às transações de cada usuário.
+- Cálculos financeiros realizados em centavos para evitar imprecisões em operações com valores monetários.
 
 **Qualidade e testes:**
-- Testes unitários com Vitest e Testing Library.
-- Componentes reutilizáveis e hook customizado para gerenciamento das transações.
+- 35 testes automatizados com Vitest e Testing Library (35/35 aprovados na última execução).
+- Verificação de tipos com TypeScript e build de produção aprovados.
 
-**Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, Vitest, Testing Library e Oxlint.
+**Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, Supabase, PostgreSQL, Vitest, Testing Library e Oxlint.
 
 ---
 
@@ -92,9 +97,11 @@ Landing page responsiva com navegação entre páginas, galeria e formulário de
 
 **Ecossistema React:** Vite · TanStack Router · TanStack Query · Axios
 
+**Back-End e banco de dados:** Supabase · PostgreSQL · SQL · Row Level Security (RLS)
+
 **Testes e qualidade:** Vitest · Testing Library · Playwright · Oxlint
 
-**Integração e ferramentas:** APIs REST · MSW · Socket.IO · Git · GitHub
+**Integração e ferramentas:** APIs REST · MSW · Socket.IO · Git · GitHub · Vercel
 
 **Outros conhecimentos:** Design responsivo · localStorage
 
@@ -115,7 +122,7 @@ Resultados registrados durante as auditorias do projeto. Os índices podem varia
 
 ## 📚 Próximos estudos
 
-Banco de Dados · SQL · MySQL
+Aprofundamento em SQL, modelagem de dados e desenvolvimento de aplicações full stack.
 
 ---
 
