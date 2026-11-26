@@ -16,6 +16,31 @@ Atualmente desenvolvo projetos com React e TypeScript, integrando interfaces a A
 
 ## 🚀 Projetos em destaque
 
+### 💸 Fluxo — Controle Financeiro | React + TypeScript + Supabase
+
+Aplicação de controle financeiro pessoal para organizar receitas, despesas e compras parceladas, com autenticação de usuários e persistência de dados em banco PostgreSQL.
+
+🔗 [Acessar aplicação](https://fluxo-controle-financeiro-iota.vercel.app/) · [Código-fonte](https://github.com/llima598/fluxo-controle-financeiro)
+
+**Principais funcionalidades:**
+- Cadastro e login de usuários.
+- Gerenciamento de perfil: edição de nome, solicitação de alteração de e-mail e atualização de senha.
+- Cadastro, edição e exclusão de receitas e despesas.
+- Dashboard com saldo, receitas e despesas.
+- Navegação por mês e ano.
+- Busca e filtros de transações.
+- Gerenciamento de compras parceladas.
+- Gráficos de movimentações diárias e gastos por categoria.
+- Persistência de dados com Supabase e PostgreSQL.
+- Políticas de Row Level Security (RLS) para restringir o acesso às transações de cada usuário.
+- Cálculos financeiros realizados em centavos para evitar imprecisões em operações com valores monetários.
+
+**Qualidade e testes:**
+- 35 testes automatizados com Vitest e Testing Library (35/35 aprovados na última execução).
+- Verificação de tipos com TypeScript e build de produção aprovados.
+
+**Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, Supabase, PostgreSQL, Vitest, Testing Library e Oxlint.
+
 ### 🌿 GreenMint Marketplace | React + TypeScript
 
 Marketplace de NFTs com catálogo, autenticação, gerenciamento de conta, favoritos, carrinho e checkout. O projeto simula integrações com API, carteira digital e atualizações em tempo real.
@@ -43,31 +68,6 @@ Marketplace de NFTs com catálogo, autenticação, gerenciamento de conta, favor
 **Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, shadcn/ui, TanStack Router, TanStack Query, Axios, MSW, Socket.IO e Playwright.
 
 **Observação técnica:** o backend, a persistência dos dados, a carteira e os eventos em tempo real são simulados para fins de demonstração. A aplicação não realiza transações financeiras nem conexão real com carteiras ou redes blockchain.
-
-### 💸 Fluxo — Controle Financeiro | React + TypeScript + Supabase
-
-Aplicação de controle financeiro pessoal para organizar receitas, despesas e compras parceladas, com autenticação de usuários e persistência de dados em banco PostgreSQL.
-
-🔗 [Acessar aplicação](https://fluxo-controle-financeiro-iota.vercel.app/) · [Código-fonte](https://github.com/llima598/fluxo-controle-financeiro)
-
-**Principais funcionalidades:**
-- Cadastro e login de usuários.
-- Gerenciamento de perfil: edição de nome, solicitação de alteração de e-mail e atualização de senha.
-- Cadastro, edição e exclusão de receitas e despesas.
-- Dashboard com saldo, receitas e despesas.
-- Navegação por mês e ano.
-- Busca e filtros de transações.
-- Gerenciamento de compras parceladas.
-- Gráficos de movimentações diárias e gastos por categoria.
-- Persistência de dados com Supabase e PostgreSQL.
-- Políticas de Row Level Security (RLS) para restringir o acesso às transações de cada usuário.
-- Cálculos financeiros realizados em centavos para evitar imprecisões em operações com valores monetários.
-
-**Qualidade e testes:**
-- 35 testes automatizados com Vitest e Testing Library (35/35 aprovados na última execução).
-- Verificação de tipos com TypeScript e build de produção aprovados.
-
-**Stack:** React 19, TypeScript, Vite, Tailwind CSS v4, Supabase, PostgreSQL, Vitest, Testing Library e Oxlint.
 
 ---
 
